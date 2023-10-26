@@ -10,6 +10,7 @@
 h1{
     color: #ff5757;
     font-size: 50px;
+    padding-bottom: 30px;
 }
 
 
@@ -102,4 +103,8 @@ p{
 aside{
     float: right;
     margin-left: 30px;
+}
+
+.name{
+    padding-bottom: 20px;
 }
