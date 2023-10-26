@@ -80,13 +80,6 @@ img{
 }
 
 
-
-.icone h1:hover{
-    transition: 1000ms;
-    opacity: 1;
-}
-
-
 header{
     height: 150px;
 }
