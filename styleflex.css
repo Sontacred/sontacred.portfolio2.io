@@ -45,6 +45,7 @@
 }
 
 .item1R{
+    align-items: center;
     display: flex;
     flex-direction: row;
     width: fit-content;
@@ -72,5 +73,14 @@
     padding: 10px;
     font-size: 30px;
 }
+
+
+@media screen and (max-width: 1080px){
+        .item{
+            width: 70%;
+        }
+
+}
+
 
 
