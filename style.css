@@ -32,7 +32,6 @@ h1{
 }
 
 .bouton a{
-    color: #171717;
     text-decoration: none;
     padding: 10px 20px;
 }
@@ -60,6 +59,13 @@ h1{
     border-radius: 5px;
 }
 
+.SA{
+    border: 1px solid #FF5757;
+    background-color: #000000;
+    color: #FF5757;
+    border-radius: 5px;
+}
+
 
 .S1:hover{
     border: 7px solid #FFFFFF;
@@ -74,17 +80,20 @@ img{
     border-radius: 5px;
 }
 
-.icone{
+.icone img{
     float: left;
     margin: 30px;
 }
 
 
-
-
-
 header{
     height: 150px;
+}
+
+header .bouton{
+    float: right;
+    margin: 30px;
+    margin-right: 100px;
 }
 
 

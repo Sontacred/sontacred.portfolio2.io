@@ -23,7 +23,7 @@
 .item{
     display: flex;
     flex-direction: column;
-    width: 96%;
+    width: 85%;
     height: fit-content;
     margin: 5px;
     padding: 30px;
@@ -34,7 +34,7 @@
 }
 
 .itemB{
-    width: 96%;
+    width: 85%;
     height: fit-content;
     margin: 20px;
     padding: 10px;
