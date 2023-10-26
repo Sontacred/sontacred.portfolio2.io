@@ -12,7 +12,7 @@
 
 
 .container{
-    margin: 50px;
+
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -23,7 +23,18 @@
 .item{
     display: flex;
     flex-direction: column;
-    width: 900px;
+    width: 96%;
+    height: fit-content;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #FF5757;
+    border-radius: 15px;
+    font-size:xx-large;
+    min-height: 150px;
+}
+
+.itemB{
+    width: 96%;
     height: fit-content;
     margin: 20px;
     padding: 10px;
